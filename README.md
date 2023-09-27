@@ -9,7 +9,7 @@ Frondend of the application is made using Angular and backend was written in Nes
 <img width="685" alt="image" src="https://github.com/PiotrWrbl/Microservice-Based-ChatApp/assets/131017880/c94cc313-304f-4686-bda2-90a678a6eb9c">
 
 
-Project file structure:
+--PROJECT_FILE_STRUCTURE--
 
 apps folder contains Backend (NestJs)
 

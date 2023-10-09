@@ -11,9 +11,9 @@ Frondend of the application is made using Angular and backend was written in Nes
 
 --PROJECT_FILE_STRUCTURE--
 
-apps folder contains Backend (NestJs)
+'apps' folder contains Backend (NestJs)
 
-chatApp contains Frontend (Angular)
+'chatApp' contains Frontend (Angular)
 
 --HOW_TO_RUN--
 
